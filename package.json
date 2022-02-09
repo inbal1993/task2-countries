@@ -1,0 +1,19 @@
+{
+  "name": "task02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inbal1993/task02.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inbal1993/task02/issues"
+  },
+  "homepage": "https://github.com/inbal1993/task02#readme"
+}
